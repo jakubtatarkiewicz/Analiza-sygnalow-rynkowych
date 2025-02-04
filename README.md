@@ -1,1 +1,1 @@
-[Otwórz podgląd analizy](https://github.com/jakubtatarkiewicz/Analiza-sygnalow-rynkowych/blob/main/analiza.html)
+# [Otwórz analize](https://jakubtatarkiewicz.github.io/Analiza-sygnalow-rynkowych/)
